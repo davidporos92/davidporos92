@@ -4,6 +4,8 @@ Backend engineer in Budapest, writing code professionally since 2013. I build hi
 
 **Open to senior and staff individual-contributor roles.** Remote, async-first, EU time zone. I've been an engineering manager and a squad lead, and I do my best work building.
 
+I write about what I build on [my blog](https://davidporos92.github.io).
+
 Reach me on [LinkedIn](https://www.linkedin.com/in/david-poros/) or in [email](mailto:david.poros@proton.me).
 
 ---
@@ -30,6 +32,14 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/david-poros/) or in [email](m
 - Built merchant-facing AML tooling: an audit report to search a person and export evidence for auditors, and a daily watchlist sync with alerting.
 
 `PHP` `Symfony` `MySQL` `OpenSearch` `Docker`
+
+---
+
+## Writing
+
+I build pet projects in the open and write up the decisions, the trade-offs and what broke, with tagged code for every post: **[davidporos92.github.io](https://davidporos92.github.io)**
+
+- **[Building MarginCMS](https://davidporos92.github.io/posts/building-margincms-part-1-contract-first-code-later/)**: a small, contract-first CMS with a Go API generated from an OpenAPI spec. [Code on GitHub](https://github.com/davidporos92/margin-cms).
 
 ---
 
